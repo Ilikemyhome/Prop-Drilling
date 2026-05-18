@@ -19,7 +19,7 @@ Test Case 3 — Removing prop drilling does not break intermediate components
 Expected:  
 Dashboard and Sidebar render normally with no props.
 
-⚠️ Edge Cases
+### Edge Cases
 Edge Case 1 — user is null
 Temporarily set:
 
